@@ -1,4 +1,4 @@
-<img alt="Night Coding" src="https://maprigo.com/images/avatarwithoutBack.png" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
+<img alt="Night Coding" src="https://maprigo.com/images/avatarwithoutBack.png" width='40' align="left"/><h2>Hey there! I'm MAPRIGO</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm MAPRIGO -->
 
