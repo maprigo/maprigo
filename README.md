@@ -1,4 +1,4 @@
-<h2>Hey there! I'm MAPRIGO</h2>
+<h2>Hey there! I'm Gonza</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm MAPRIGO -->
 
@@ -8,8 +8,6 @@
 🎓 &nbsp;Computer Science degree, Information Technology.\
 🌱 &nbsp;today I work as a Software Architect, -Develop microservices-Decide the Architecture for the deploy and interaction in the microservices.-Help my team with daily obstacles.-Decide the workflow of the next releases.\
 ✍️ &nbsp;Hobbies:- Field hockey player.- Create and automate inventions with IOT, (raspberry | Arduino | Drones | 3D Printer).\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-📄 &nbsp;Please have a look at my [Résumé](https://maprigo.com) for more details about me. I'm open to feedback and suggestions!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
