@@ -45,11 +45,3 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
 
-
-
-### 🤝🏻 &nbsp;Connect with Me
-
-<p align="center">
-<a href="https://maprigo.com"><img src="https://img.shields.io/badge/-maprigo.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/martinezgon"><img src="https://img.shields.io/badge/-maprigo%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-</p>
